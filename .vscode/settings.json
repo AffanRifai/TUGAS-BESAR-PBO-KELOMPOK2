@@ -1,0 +1,26 @@
+{
+    "java.project.sourcePaths": [
+        "dealer-mobil-app\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "dealer-mobil-app\\lib\\lib copy\\commons-beanutils-1.9.4.jar",
+        "dealer-mobil-app\\lib\\lib copy\\commons-collections-3.2.2.jar",
+        "dealer-mobil-app\\lib\\lib copy\\commons-collections4-4.4.jar",
+        "dealer-mobil-app\\lib\\lib copy\\commons-digester-2.1.jar",
+        "dealer-mobil-app\\lib\\lib copy\\commons-io-2.11.0.jar",
+        "dealer-mobil-app\\lib\\lib copy\\commons-lang3-3.12.0.jar",
+        "dealer-mobil-app\\lib\\lib copy\\commons-logging-1.2 (2).jar",
+        "dealer-mobil-app\\lib\\lib copy\\flatlaf-3.2.1.jar",
+        "dealer-mobil-app\\lib\\lib copy\\gson-2.13.2.jar",
+        "dealer-mobil-app\\lib\\lib copy\\itext-2.1.7.jar",
+        "dealer-mobil-app\\lib\\lib copy\\jasperreports-6.20.0.jar",
+        "dealer-mobil-app\\lib\\lib copy\\jasperreports-fonts-6.20.0.jar",
+        "dealer-mobil-app\\lib\\lib copy\\javax.websocket-api-1.1.jar",
+        "dealer-mobil-app\\lib\\lib copy\\miglayout-core-11.0 (1).jar",
+        "dealer-mobil-app\\lib\\lib copy\\miglayout-swing-11.0 (1).jar",
+        "dealer-mobil-app\\lib\\lib copy\\mysql-connector-j-9.4.0.jar",
+        "dealer-mobil-app\\lib\\lib copy\\slf4j-api-2.0.17.jar",
+        "dealer-mobil-app\\lib\\lib copy\\tyrus-client-1.17.jar",
+        "dealer-mobil-app\\lib\\lib copy\\tyrus-core-1.17.jar"
+    ]
+}
